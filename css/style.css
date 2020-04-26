@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Inter|Montserrat|Roboto&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/logo.css");
+
+body {
+	font-family: Montserrat;
+	font-size: 16px;
+	margin: 0px;
+}
+
+#how {
+	padding-top: 90px;
+	padding-bottom: 75px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+	font-family: Inter;
+}
+
+.typeform-widget {
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
